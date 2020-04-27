@@ -283,4 +283,19 @@ will spread over the world - when that day comes, there will be no more smallpox
 
 </ul>
 
+</br>
+<p>[11] <a href="https://en.wikipedia.org/wiki/Hippocrates"> Hippocrates </a></p>
+<img src="11.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: c. 460 BC, Kos, Ancient Greece </p>
+<p>Death: c. 370 BC (aged c. 90), Larissa, Ancient Greece</p>
+<p>Known for: The Father of Western Medicine</p>
+<p>&nbsp;</p>
+<pre>"Science is the father of knowledge, but opinion breeds ignorance."<br /> <br /> ―  Hippocrates</pre>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(27).pdf">Experiments on Plant Hybridization</a></li>
 
+
+</ul>
