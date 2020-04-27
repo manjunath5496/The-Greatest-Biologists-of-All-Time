@@ -422,8 +422,32 @@ will spread over the world - when that day comes, there will be no more smallpox
 </ul>
 
 
+</br>
+
+<p>[17] <a href="https://en.wikipedia.org/wiki/Robert_Hooke">Robert Hooke</a></p>
+<img src="17.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: 28 July [O.S. 18 July] 1635, Freshwater, Isle of Wight, England </p>
+<p>Death: 3 March 1703 (aged 67), London, England</p>
+<p>Known for: Coined the term "cell"</p>
+<p>&nbsp;</p>
+<pre>"It is commonly believed that anyone who tabulates numbers is a statistician.
+This is like believing that anyone who owns a scalpel is a surgeon."<br /> <br /> ―  Robert Hooke  </pre>
+<p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(75).pdf">The miscellaneous botanical works of Robert Brown: Part I</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(76).pdf">The miscellaneous botanical works of Robert Brown: Part II</a></li>
+  
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(77).pdf">Chloris Melvilliana: A List of Plants Collected in Melville Island</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(78).pdf">General remarks, geographical and systematical, on the botany of Terra Australis</a></li>
+    
 
 
+</ul>
+
+</br>
 
 
 
