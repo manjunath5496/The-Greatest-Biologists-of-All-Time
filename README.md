@@ -103,7 +103,7 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 <hr />
 <ul>
 <li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(12).pdf">History of Animals</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(13).pdf">Aristotle's Physics, I- II</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(13).pdf">Aristotle's Physics (I-II)</a></li>
 
 <li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(14).pdf">Prior Analytics</a></li>
 
