@@ -237,3 +237,30 @@ will spread over the world - when that day comes, there will be no more smallpox
 
 
 </ul>
+
+
+</br>
+<p>[9] <a href="https://en.wikipedia.org/wiki/Galen"> Claudius Galenus </a></p>
+<img src="9.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: September 129 AD, Pergamon, Asia, Roman Empire</p>
+<p>Death: c. 210 AD, Rome, Roman Empire</p>
+<p>Known for: First to introduce medicinal experimentation</p>
+<p>&nbsp;</p>
+<pre>"Employment is nature's physician and is essential to human happiness."<br /> <br /> ―  Claudius Galenus</pre>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(49).pdf">Letter from Doctor Edward Jenner, to William Dillwyn, on the effects of vaccination, in preserving from the small-pox</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(52).pdf">The Three Original Publications on Vaccination Against Smallpox</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(51).pdf">An Inquiry into the Causes and Effects of the Variolae Vaccinae</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(50).pdf">A Continuation of Facts and Observations Relative to the Variolæ Vaccinæ, or Cow-Pox. 1800</a></li>
+
+
+</ul>
+
+
+
+
