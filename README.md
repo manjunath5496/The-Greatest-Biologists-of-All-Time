@@ -7,4 +7,9 @@
 <pre>"There are three stages of scientific discovery: first people deny it is true; then 
 they deny it is important; finally they credit the wrong person."<br /> <br /> ― Alexander Von Humboldt</pre>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(12).pdf">Ars Magna or the Rules of Algebra</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(13).pdf">The Book of My Life: (De Vita Propria Liber)</a></li>
+</ul>
