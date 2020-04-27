@@ -153,35 +153,16 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 <p><strong>Publications:</strong></p>
 <hr />
 <ul>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(12).pdf">History of Animals</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(13).pdf">Aristotle's Physics (I-II)</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(28).pdf">Illustrated manual of operative surgery and surgical anatomy (Part I)</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(29).pdf">Illustrated manual of operative surgery and surgical anatomy (Part II)</a></li>
 
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(14).pdf">Prior Analytics</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(30).pdf">An introduction to the study of experimental medicine</a></li>
 
 <li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(15).pdf">Posterior Analytics</a></li>
 
 <li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(16).pdf">De Anima (On the Soul)</a></li>
 
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(17).pdf">Aristotle - Works</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(18).pdf">Metaphysics</a></li>
 
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(19).pdf">Categories</a></li>
-
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(20).pdf">Ethics</a></li>
-
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(21).pdf">Generation of animals</a></li>
-  
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(22).pdf">On Generation and Corruption</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(23).pdf">Meteorology</a></li>
-
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(24).pdf">Parts of Animals </a></li>
-
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(25).pdf">On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos </a></li>
-
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(26).pdf">On the Heavens</a></li>
-    
-  
-  
 
   
 
