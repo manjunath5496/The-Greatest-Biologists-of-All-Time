@@ -222,7 +222,8 @@ Animals and Plants under Domestication</a></li>
 <p>Death: 26 January 1823 (aged 73), Berkeley, Gloucestershire, England</p>
 <p>Known for: Creating the first effective vaccine for smallpox</p>
 <p>&nbsp;</p>
-<pre>"A man who dares to waste one hour of time has not discovered the value of life."<br /> <br /> ―  Charles Darwin</pre>
+<pre>"I hope that some day the practice of producing cowpox in human beings 
+will spread over the world - when that day comes, there will be no more smallpox."<br /> <br /> ―  Edward Jenner</pre>
 <p>&nbsp;</p>
 <p><strong>Publications:</strong></p>
 <hr />
