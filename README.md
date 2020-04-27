@@ -266,5 +266,30 @@ will spread over the world - when that day comes, there will be no more smallpox
 </ul>
 
 
+</br>
+<p>[10] <a href="https://en.wikipedia.org/wiki/Gregor_Mendel"> Gregor Mendel </a></p>
+<img src="9.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: 20 July 1822, Heinzendorf bei Odrau, Silesia, Austrian Empire </p>
+<p>Death: 6 January 1884 (aged 61), Brünn, Moravia, Austria-Hungary</p>
+<p>Known for: Modern Genetics</p>
+<p>&nbsp;</p>
+<pre>"I am convinced that it will not be long before the whole world acknowledges the results of my work."<br /> <br /> ―  Gregor Mendel</pre>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(53).pdf">The writings of Hippocrates and Galen: Part 1</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(54).pdf">The writings of Hippocrates and Galen: Part 2</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(55).pdf">Galen On the Natural Faculties</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(56).pdf">Galen's On the Elements According to Hippocrates</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(57).pdf">Galen on anatomical procedures </a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(58).pdf">Galen on Mental Disorders</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(59).pdf">Galen, Three Treatises</a></li>
+
+</ul>
 
 
