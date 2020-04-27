@@ -342,6 +342,67 @@ will spread over the world - when that day comes, there will be no more smallpox
 </ul>
 
 
+</br>
+<p>[13] <a href="https://en.wikipedia.org/wiki/Louis_Pasteur"> Louis Pasteur </a></p>
+<img src="13.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: December 27, 1822, Dole, Jura, France </p>
+<p>Death: September 28, 1895 (aged 72), Marnes-la-Coquette, France</p>
+<p>Known for: Created the process of pasteurization for treating milk and wine</p>
+<p>&nbsp;</p>
+<pre>"In the fields of observation chance favors only the prepared mind."<br /> <br /> ―  Louis Pasteur </pre>
+<p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(135).pdf">The Foundations of Stereo Chemistry</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(136).pdf">Studies on Fermentation: The Diseases of Beer, Their Causes, and the Means of Preventing Them</a></li>
+</ul>
+
+</br>
+
+<p>[14] <a href="https://en.wikipedia.org/wiki/Joseph_Priestley"> Joseph Priestley </a></p>
+<img src="14.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: 24 March [O.S. 13 March] 1733, Birstall, West Riding of Yorkshire, UK </p>
+<p>Death: 6 February 1804 (aged 70), Northumberland, Pennsylvania, US</p>
+<p>Known for: Discovery of Oxygen</p>
+<p>&nbsp;</p>
+<pre>"In completing one discovery we never fail to get an imperfect knowledge of others."<br /> <br /> ―  Joseph Priestley  </pre>
+<p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(108).pdf">Experiments and Observations on Different Kinds of Air (1774&ndash;86)</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(109).pdf">The History and Present State of Electricity</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(110).pdf">Observations on Respiration, and the Use of the Blood</a></li>
+</ul>
+
+</br>
+
+<p>[15] <a href="https://en.wikipedia.org/wiki/Rachel_Carson">Rachel Carson </a></p>
+<img src="15.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: May 27, 1907, Springdale, Pennsylvania, U.S. </p>
+<p>Death: April 14, 1964 (aged 56), Silver Spring, Maryland, U.S.</p>
+<p>Known for: Movement against using pesticides</p>
+<p>&nbsp;</p>
+<pre>"In nature nothing exists alone."<br /> <br /> ―  Rachel Carson  </pre>
+<p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(160).pdf">Silent Spring</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(161).pdf">The Sea Around Us</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(162).pdf">Under the Sea Wind</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(163).rar">The Edge of the Sea</a></li>
+</ul>
+</br>
+
+
+
+
+
 
 
 
