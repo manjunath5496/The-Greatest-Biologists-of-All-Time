@@ -411,11 +411,11 @@ will spread over the world - when that day comes, there will be no more smallpox
 <p><strong>Publications:</strong></p>
 <hr />
 <ul>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(71).pdf">The Collected Papers of Joseph, Baron Lister: Part I</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(72).pdf">The Collected Papers of Joseph, Baron Lister: Part II</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(75).pdf">The miscellaneous botanical works of Robert Brown: Part I</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(76).pdf">The miscellaneous botanical works of Robert Brown: Part II</a></li>
   
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(73).pdf">The Autobiography of Joseph Lister: Of Bradford in Yorkshire, to which is Added a Contemporary Account of the Defence of Bradford and Capture of Leeds by the Parliamentarians in 1642</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(74).pdf">On the Antiseptic Principle of the Practice of Surgery</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(77).pdf">Chloris Melvilliana: A List of Plants Collected in Melville Island</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(78).pdf">General remarks, geographical and systematical, on the botany of Terra Australis</a></li>
     
 
 
