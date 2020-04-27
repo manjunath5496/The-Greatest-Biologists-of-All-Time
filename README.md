@@ -317,3 +317,62 @@ will spread over the world - when that day comes, there will be no more smallpox
   
 
 </ul>
+
+
+</br>
+<p>[12] <a href="https://en.wikipedia.org/wiki/Joseph_Lister"> Joseph Lister </a></p>
+<img src="12.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: 5 April 1827, Upton House, West Ham, England </p>
+<p>Death: 10 February 1912 (aged 84), Walmer, Kent, England</p>
+<p>Known for: Using antiseptics for cleaning and sterilizing wounds</p>
+<p>&nbsp;</p>
+<pre>"I trust I may be enabled in the treatment of patients always to act with a single eye to their good."<br /> <br /> ―  Joseph Lister </pre>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(60).pdf">Hippocratic writings: Part I</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(61).pdf">Hippocratic writings: Part II</a></li>
+  
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(62).pdf">On Airs, Waters, and Places</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(63).pdf">The Aphorisms of Hippocrates</a></li>
+    
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(64).pdf">Hippocrates On head wounds</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(65).pdf">On Fractures</a></li>
+  
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(66).pdf">The Genuine Works Of Hippocrates</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(67).pdf">On Regimen in Acute Diseases</a></li>
+      
+   
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(68).pdf">Hippocrates: Volume II</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(69).pdf">On the Sacred Disease</a></li> 
+  
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(70).pdf">Hippocrates: Volume I</a></li>   
+  
+  
+  
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
