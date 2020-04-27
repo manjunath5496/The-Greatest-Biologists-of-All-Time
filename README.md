@@ -90,6 +90,27 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 </ul>
 
 
+</br>
+<p>[5] <a href="https://en.wikipedia.org/wiki/Aristotle">Aristotle</a></p>
+<img src="5.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: 384 BC, Stagira, Chalcidian League</p>
+<p>Death: 322 BC (aged approx. 62), Euboea, Macedonian Empire</p>
+<p>Known for: Classified organisms into a "Ladder of Life"</p>
+<p>&nbsp;</p>
+<pre>"The energy of the mind is the essence of life."<br /> <br /> ―  Aristotle</pre>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(11).pdf">The Select Works of Antony Van Leeuwenhoek: Containing His Microscopical Discoveries in Many of the Works of Nature</a></li>
+
+  
+
+    
+    
+  
+  
+</ul>
 
 
 
