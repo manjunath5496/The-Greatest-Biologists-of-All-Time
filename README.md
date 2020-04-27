@@ -268,7 +268,7 @@ will spread over the world - when that day comes, there will be no more smallpox
 
 </br>
 <p>[10] <a href="https://en.wikipedia.org/wiki/Gregor_Mendel"> Gregor Mendel </a></p>
-<img src="9.jpg" alt="Smiley face" height="120" width="120">
+<img src="10.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 20 July 1822, Heinzendorf bei Odrau, Silesia, Austrian Empire </p>
 <p>Death: 6 January 1884 (aged 61), Brünn, Moravia, Austria-Hungary</p>
 <p>Known for: Modern Genetics</p>
