@@ -178,14 +178,40 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 <p><strong>Publications:</strong></p>
 <hr />
 <ul>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(28).pdf">Illustrated manual of operative surgery and surgical anatomy (Part I)</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(29).pdf">Illustrated manual of operative surgery and surgical anatomy (Part II)</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(33).pdf">Volcanic Islands</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(34).rar">Insectivorous plants</a></li>
 
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(30).pdf">An introduction to the study of experimental medicine</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(35).pdf">The Power of Movement in Plants</a></li>
 
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(31).pdf">A text book of operative surgery and surgical anatomy: Part I</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(36).pdf">The Autobiography of
+Charles Darwin 1809-1882</a></li>
 
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(32).pdf">A text book of operative surgery and surgical anatomy: Part II</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(37).pdf">The Formation of Vegetable Mould</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(38).pdf">Geological Observations On South America</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(39).pdf">The Different Forms of Flowers on Plants of the Same Species</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(40).pdf">The Structure and Distribution of Coral Reefs</a></li>
+
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(41).pdf">The Descent of Man, and Selection in Relation to Sex</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(42).pdf">The Expression of the Emotions in Man and Animals</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(43).pdf">The Foundation of the Origin of Species</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(44).pdf">Life and Letters of Charles Darwin, Volume 2</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(45).pdf">Life and Letters of Charles Darwin, Volume 1</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(46).pdf">The Origin of Species: By Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(47).pdf">The Variation of
+Animals and Plants under Domestication</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(48).pdf">The Voyage Of The Beetle</a></li>
+
 
  
 </ul>
