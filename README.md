@@ -331,26 +331,13 @@ will spread over the world - when that day comes, there will be no more smallpox
 <p><strong>Publications:</strong></p>
 <hr />
 <ul>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(60).pdf">Hippocratic writings: Part I</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(61).pdf">Hippocratic writings: Part II</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(71).pdf">The Collected Papers of Joseph, Baron Lister: Part I</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(72).pdf">The Collected Papers of Joseph, Baron Lister: Part II</a></li>
   
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(62).pdf">On Airs, Waters, and Places</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(63).pdf">The Aphorisms of Hippocrates</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(73).pdf">The Autobiography of Joseph Lister: Of Bradford in Yorkshire, to which is Added a Contemporary Account of the Defence of Bradford and Capture of Leeds by the Parliamentarians in 1642</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(74).pdf">On the Antiseptic Principle of the Practice of Surgery</a></li>
     
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(64).pdf">Hippocrates On head wounds</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(65).pdf">On Fractures</a></li>
-  
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(66).pdf">The Genuine Works Of Hippocrates</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(67).pdf">On Regimen in Acute Diseases</a></li>
-      
-   
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(68).pdf">Hippocrates: Volume II</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(69).pdf">On the Sacred Disease</a></li> 
-  
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(70).pdf">Hippocrates: Volume I</a></li>   
-  
-  
-  
+
 
 </ul>
 
