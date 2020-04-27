@@ -158,9 +158,9 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 
 <li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(30).pdf">An introduction to the study of experimental medicine</a></li>
 
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(15).pdf">Posterior Analytics</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(31).pdf">A text book of operative surgery and surgical anatomy: Part I</a></li>
 
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(16).pdf">De Anima (On the Soul)</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(32).pdf">A text book of operative surgery and surgical anatomy: Part II</a></li>
 
 
 
