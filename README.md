@@ -141,6 +141,55 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 </ul>
 
 
+</br>
+<p>[6] <a href="https://en.wikipedia.org/wiki/Claude_Bernard">Claude Bernard</a></p>
+<img src="6.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: 12 July 1813, Saint-Julien</p>
+<p>Death: 10 February 1878 (aged 64), Paris</p>
+<p>Known for: Blind experimental method for objective results</p>
+<p>&nbsp;</p>
+<pre>"It's what we think we know that keeps us from learning."<br /> <br /> ―  Claude Bernard</pre>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(12).pdf">History of Animals</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(13).pdf">Aristotle's Physics (I-II)</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(14).pdf">Prior Analytics</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(15).pdf">Posterior Analytics</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(16).pdf">De Anima (On the Soul)</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(17).pdf">Aristotle - Works</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(18).pdf">Metaphysics</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(19).pdf">Categories</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(20).pdf">Ethics</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(21).pdf">Generation of animals</a></li>
+  
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(22).pdf">On Generation and Corruption</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(23).pdf">Meteorology</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(24).pdf">Parts of Animals </a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(25).pdf">On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos </a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(26).pdf">On the Heavens</a></li>
+    
+  
+  
+
+  
+
+    
+    
+  
+  
+</ul>
 
 
 
