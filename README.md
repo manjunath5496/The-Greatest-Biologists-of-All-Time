@@ -215,3 +215,52 @@ Animals and Plants under Domestication</a></li>
 
  
 </ul>
+</br>
+<p>[8] <a href="https://en.wikipedia.org/wiki/Edward_Jenner">Edward Jenner</a></p>
+<img src="8.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: 17 May 1749, Berkeley, Gloucestershire, England</p>
+<p>Death: 26 January 1823 (aged 73), Berkeley, Gloucestershire, England</p>
+<p>Known for: Creating the first effective vaccine for smallpox</p>
+<p>&nbsp;</p>
+<pre>"A man who dares to waste one hour of time has not discovered the value of life."<br /> <br /> ―  Charles Darwin</pre>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(33).pdf">Volcanic Islands</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(34).rar">Insectivorous plants</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(35).pdf">The Power of Movement in Plants</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(36).pdf">The Autobiography of
+Charles Darwin 1809-1882</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(37).pdf">The Formation of Vegetable Mould</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(38).pdf">Geological Observations On South America</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(39).pdf">The Different Forms of Flowers on Plants of the Same Species</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(40).pdf">The Structure and Distribution of Coral Reefs</a></li>
+
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(41).pdf">The Descent of Man, and Selection in Relation to Sex</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(42).pdf">The Expression of the Emotions in Man and Animals</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(43).pdf">The Foundation of the Origin of Species</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(44).pdf">Life and Letters of Charles Darwin, Volume 2</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(45).pdf">Life and Letters of Charles Darwin, Volume 1</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(46).pdf">The Origin of Species: By Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(47).pdf">The Variation of
+Animals and Plants under Domestication</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(48).pdf">The Voyage Of The Beetle</a></li>
+
+
+ 
+</ul>
