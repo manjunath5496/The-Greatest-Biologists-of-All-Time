@@ -163,14 +163,29 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 <li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(32).pdf">A text book of operative surgery and surgical anatomy: Part II</a></li>
 
 
-
-  
-
-    
-    
-  
-  
 </ul>
 
 
+</br>
+<p>[7] <a href="https://en.wikipedia.org/wiki/Charles_Darwin">Charles Darwin</a></p>
+<img src="7.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: 12 February 1809, The Mount, Shrewsbury, Shropshire, England</p>
+<p>Death: 19 April 1882 (aged 73), Down House, Downe, Kent, England</p>
+<p>Known for: Theory of Evolution</p>
+<p>&nbsp;</p>
+<pre>"A man who dares to waste one hour of time has not discovered the value of life."<br /> <br /> ―  Charles Darwin</pre>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(28).pdf">Illustrated manual of operative surgery and surgical anatomy (Part I)</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(29).pdf">Illustrated manual of operative surgery and surgical anatomy (Part II)</a></li>
 
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(30).pdf">An introduction to the study of experimental medicine</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(31).pdf">A text book of operative surgery and surgical anatomy: Part I</a></li>
+
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(32).pdf">A text book of operative surgery and surgical anatomy: Part II</a></li>
+
+ 
+</ul>
