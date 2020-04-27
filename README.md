@@ -79,9 +79,8 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 <p><strong>Publications:</strong></p>
 <hr />
 <ul>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(11).pdf">Essays Physical and Chemical</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(12).pdf">Elements of Chemistry,
-In a New Systematic Order, Containing all the Modern Discoveries</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(11).pdf">The Select Works of Antony Van Leeuwenhoek: Containing His Microscopical Discoveries in Many of the Works of Nature</a></li>
+
   
 
     
