@@ -67,6 +67,28 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 </ul>
 
 
+</br>
+<p>[4] <a href="https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek">Antonie van Leeuwenhoek</a></p>
+<img src="4.jpg" alt="Smiley face" height="120" width="120">
+<p>Birth: 24 October 1632, Delft, Dutch Republic</p>
+<p>Death: 26 August 1723 (aged 90), Delft, Dutch Republic</p>
+<p>Known for: the Microscopic discovery of microorganisms (animalcule)</p>
+<p>&nbsp;</p>
+<pre>"In the year 1657 I discovered very small living creatures in rain water."<br /> <br /> ―  Antonie van Leeuwenhoek</pre>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(11).pdf">Essays Physical and Chemical</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(12).pdf">Elements of Chemistry,
+In a New Systematic Order, Containing all the Modern Discoveries</a></li>
+  
+
+    
+    
+  
+  
+</ul>
 
 
 
