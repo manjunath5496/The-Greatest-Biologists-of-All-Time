@@ -437,11 +437,11 @@ This is like believing that anyone who owns a scalpel is a surgeon."<br /> <br /
 <p><strong>Publications:</strong></p>
 <hr />
 <ul>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(75).pdf">The miscellaneous botanical works of Robert Brown: Part I</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(76).pdf">The miscellaneous botanical works of Robert Brown: Part II</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(79).pdf">Micrographia</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(80).pdf">Philosophical experiments and observations of the late eminent Robert Hooke: Part I</a></li>
   
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(77).pdf">Chloris Melvilliana: A List of Plants Collected in Melville Island</a></li>
-<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(78).pdf">General remarks, geographical and systematical, on the botany of Terra Australis</a></li>
+<li><a href="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/gbt(81).pdf">Philosophical experiments and observations of the late eminent Robert Hooke: Part II</a></li>
+
     
 
 
